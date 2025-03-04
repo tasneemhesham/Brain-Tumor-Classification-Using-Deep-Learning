@@ -51,4 +51,4 @@ Ensure you have the following installed:
 Special thanks to open-source datasets and pretrained model contributors for their support in deep learning research.
 
 ## References
-Kaggle Dataset: [Brain MRI Images Dataset]([https://www.kaggle.com](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset))
+- Kaggle Dataset: [Brain MRI Images Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
